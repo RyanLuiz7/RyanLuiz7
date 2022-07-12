@@ -7,7 +7,7 @@ MUITO PRAZER!😁 ME CHAMO Ryan Luiz De Lira
 
 .🧑‍🎓Aluno Análise E Desenvolvimento De Sistemas
 
-.📘Me aprofundando em Front-End
+.📘Me aprofundando em Front-End e Back-End
 
 <div align="center">
   <a href="https://github.com/RyanLuiz7">
